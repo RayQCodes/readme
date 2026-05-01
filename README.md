@@ -94,7 +94,3 @@ Each repo has its own README with setup steps. Quick start:
 - **Docs:** LaTeX (IEEE template)
 
 ---
-
-## License
-
-See `LICENSE` in each repository.
